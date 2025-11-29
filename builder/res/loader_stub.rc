@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDR_LOADER_RELEASE RCDATA "..\\..\\build\\loader_stub.exe"
+IDR_LOADER_DEBUG   RCDATA "..\\..\\build\\loader_stub_debug.exe"

@@ -1,1 +1,1 @@
-## this is where your payload outputs will be
+## this is where your builder and payload template will be put
